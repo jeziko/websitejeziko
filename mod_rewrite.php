@@ -7,5 +7,5 @@
  */
 
 echo "hello world";
-echo "this is an addition to the master mod rewrite.php file";
 echo "<br/> ok, this is nice, probably something was wrong with the irgendwass";
+echo "<br/> cool this is an extra step which is complete!";
