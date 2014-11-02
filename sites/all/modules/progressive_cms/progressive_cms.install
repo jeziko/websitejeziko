@@ -1,0 +1,6 @@
+<?php
+
+
+function progressive_cms_install() {
+  variable_set('site_404', 'page-404-bg');
+}
