@@ -7,3 +7,4 @@
  */
 
 echo "hello world";
+echo "this is an addition to the master mod rewrite.php file";
