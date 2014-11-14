@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* Insert your custom CSS styles */
+
+/* setting different paddings and margins to top bars (old theme took half of the space of a page) */
+
+h1.title {
+  font-size:20px;
+  margin: -4px 0 5px;
+}
+
+.nd-region {
+    padding: 10px 0px;
+}
+
+.fixed-header.hidden-top .page-box {
+    padding-top: 30px;
+}
+
+div#progressive_cms-page_title {
+  padding-top:10px !important;
+}
+
+.fixed-header.hidden-top #top-box {
+    margin-top: 0px;
+}
+
+.page-header .title {
+  margin-bottom:10px;
+}
+
+/* removing link to h5p page on interactive content */
+
+ul.h5p-actions {
+  display:none;
+}
+
+/** sidebar titles **/
+
+.title-box .title {
+  margin: 0 0 5px 0;
+  padding: 5px 0 0;
+}
+
+.title-box h1.title, .title-box .h1.title {
+  font-size: 19px;
+}
+
+.title-box {
+  margin-bottom: 15px;
+}

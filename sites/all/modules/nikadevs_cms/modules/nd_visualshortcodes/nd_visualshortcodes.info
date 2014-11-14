@@ -1,0 +1,9 @@
+name = NikaDevs Visual Shortcodes
+description = Visual Shortcodes Editor
+package = "NikaDevs"                                                        
+core = 7.x
+dependencies[] = filter
+dependencies[] = shortcode
+version = "7.x-1.0"
+core = "7.x"
+project = "NikaDevs"
