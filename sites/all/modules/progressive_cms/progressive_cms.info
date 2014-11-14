@@ -1,6 +1,0 @@
-; $Id: 
-name = Progressive theme module
-description = Functions for Progressive theme
-package = "NikaDevs"
-version = "7.x - 1.0"
-core = 7.x
